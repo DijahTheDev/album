@@ -1,0 +1,144 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "coverphoto": "https://cdn.wallpapersafari.com/64/75/5Qb1ET.jpg",
+      "albumName": "Music"
+    },
+    {
+      "id": 2,
+      "coverphoto": "https://www.success.com/wp-content/uploads/legacy/sites/default/files/15_15.jpg",
+      "albumName": "Quotes"
+    },
+    {
+      "id": 3,
+      "coverphoto": "https://consequenceofsound.net/wp-content/uploads/2015/03/bruce-lee.png?w=807",
+      "albumName": "Martial Arts"
+    },
+    {
+      "id": 4,
+      "coverphoto": "https://i.ytimg.com/vi/jjqFnO284hA/maxresdefault.jpg",
+      "albumName": "Travel"
+    },
+    {
+      "id": 5,
+      "coverphoto": "https://ae01.alicdn.com/kf/HTB1wr6jaRfM8KJjSZFrq6xSdXXaF/Joker-Psychedelic-Trippy-Art-Fantasy-Fabric-Silk-Poster-Print-Home-Decoration-T201-208.jpg_640x640q70.jpg",
+      "albumName": "Art"
+    },
+    {
+      "id": 6,
+      "coverphoto": "https://www.bellairechamber.org/wp-content/uploads/2018/02/Yoga-word-1.jpg",
+      "albumName": "Fitness Inspiration"
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "url": "https://images-cdn.9gag.com/photo/1602678_460s.jpg",
+      "title": "Music is Life...Listen to Everything"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "url": "https://i.pinimg.com/originals/1c/45/56/1c4556a0c4a7a9c9b56b445148c8703b.jpg",
+      "title": "Keys in a Minor"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "url": "https://i.pinimg.com/originals/15/67/7c/15677c57c9b948f44ec677d9ed308b69.jpg",
+      "title": "Purple Rain or Haze?"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/3627937/pexels-photo-3627937.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Quotes"
+    },
+    {
+      "id": 5,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Quotes"
+    },
+    {
+      "id": 6,
+      "albumId": 2,
+      "url": "https://images.pexels.com/photos/3217672/pexels-photo-3217672.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Quotes"
+    },
+    {
+      "id": 7,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/62376/pexels-photo-62376.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Martial Arts"
+    },
+    {
+      "id": 8,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/165939/pexels-photo-165939.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Martial Arts"
+    },
+    {
+      "id": 9,
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/260447/pexels-photo-260447.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Martial Arts"
+    },
+    {
+      "id": 10,
+      "albumId": 4,
+      "url": "https://cdn.content.tuigroup.com/adamtui/2018_3/14_14/36ed39a0-c4d6-4ed5-bea0-a8a300f0fd11/LOC_001297_GettyImages-724345765WebOriginalCompressed.jpg?i10c=img.resize(width:1080);img.crop(width:1080,height:608)",
+      "title": "Italy"
+    },
+    {
+      "id": 11,
+      "albumId": 4,
+      "url": "https://www.travelersjoy.com/blog/sandals_jamaica_overwater_bungalows_1.jpg",
+      "title": "Jamaica"
+    },
+    {
+      "id": 12,
+      "albumId": 4,
+      "url": "https://www.fodors.com/wp-content/uploads/2017/07/Marsa-Al-Arab-1.jpg",
+      "title": "Dubai"
+    },
+    {
+      "id": 13,
+      "albumId": 5,
+      "url": "https://i.pinimg.com/originals/29/a9/b5/29a9b5b718eb4040af7b627fe2612b19.jpg",
+      "title": "My Roots: African-Native Indian"
+    },
+    {
+      "id": 14,
+      "albumId": 5,
+      "url": "https://cdn.shopify.com/s/files/1/0627/1477/products/Starry_Night_03d43ad7-d879-40ef-8525-5f3c38918acc_grande.jpg?v=1542461422",
+      "title": "Starry Night, Gogh"
+    },
+    {
+      "id": 15,
+      "albumId": 5,
+      "url": "https://www.visi.co.za/wp-content/uploads/2019/04/Nelson-Makamo3.jpg",
+      "title": "Forgive Them, Makamo"
+    },
+    {
+      "id": 16,
+      "albumId": 6,
+      "url": "https://carefreenation.com/wp-content/uploads/2015/09/mankofit-1.jpg",
+      "title": "Massey Arias"
+    },
+    {
+      "id": 17,
+      "albumId": 6,
+      "url": "https://yourdailysportfix.com/wp-content/uploads/2019/06/brit2.jpg",
+      "title": "Britney Babe"
+    },
+    {
+      "id": 18,
+      "albumId": 6,
+      "url": "https://www.orlandosentinel.com/resizer/6z1N2HEfXushPzjpoxNFdm2jDjk=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/K7TZN6CJJZEHNMCONFWGTI7JF4.jpg",
+      "title": "Kathy and Luther #FitnessRelationshipGoals"
+    }
+  ]
+}
